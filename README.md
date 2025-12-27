@@ -24,10 +24,10 @@ I hold the CEH and Security+ and I am actively building skills and knowledge tow
 
 # Repository Structure
 
-- vuln-management --> Vulnerability assessment, CTF writeups and remediation labs
-- SOC projects --> SOC detection & SIEM related projects / writeups
-- grc_risk_projects --> Risk assessments, policies & GRC work
-- automation_projects --> Automation projects and helper scripts
+- vuln_management --> Vulnerability assessment, CTF writeups and remediation labs
+- SOC --> SOC detection & SIEM related projects / writeups
+- grc_risk --> Risk assessments, policies & GRC work
+- automation_scripts --> Automation projects and helper scripts
 
 # Featured Projects
 
