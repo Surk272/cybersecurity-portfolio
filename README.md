@@ -4,7 +4,7 @@ Welcome to my Cybersecurity portfolio! This repository shows hands-on projects, 
 
 # About me
 
-I am a Cybersecurity professional with a strong focus on Vulnerability and Risk Assessment, holding the CEH and Security+ certification and hands-on experience using industry-related tools such as OpenVAS, NMap and Burpsuite.
+I am a Master's student in Sociotechnical Cybersecurity at TH Ingolstadt with 3+ years of experience in vulnerability management and application security. I enjoy breaking down complex systems, identifying root causes of security risks, and building scalable solutions that improve security posture.
 
 I am actively building practical skills in vulnerability assessment, GRC and SOC, with an interest in detecting threats, reducing attack surfaces, and translating technical findings into business risk.
 
