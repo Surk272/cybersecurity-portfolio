@@ -6,15 +6,15 @@ Welcome to my Cybersecurity portfolio! This repository shows hands-on projects, 
 
 I am a Master's student in Sociotechnical Cybersecurity at TH Ingolstadt with 3+ years of experience in vulnerability management and application security. I enjoy breaking down complex systems, identifying root causes of security risks, and building scalable solutions that improve security posture.
 
-I am actively building practical skills in vulnerability assessment, GRC and SOC, with an interest in detecting threats, reducing attack surfaces, and translating technical findings into business risk.
+I am actively building practical skills in vulnerability assessment, DevSecOps, with an interest in detecting threats, reducing attack surfaces, and translating technical findings into business risk.
 
 This portfolio documents my hands-on labs, projects, writeups and continuous learning journey in cybersecurity.
 
 # Focus Areas
 - Vulnerability Assessment & Management
+- DevSecOps
 - Web application security (OWASP Top 10)
 - Risk assessment & GRC
-- SOC Monitoring & Incident Triage
 
 # Tools & Technologies
 - Kali Linux, Windows
@@ -22,6 +22,8 @@ This portfolio documents my hands-on labs, projects, writeups and continuous lea
 - Nmap 
 - Wireshark
 - Burp suite
+- SonarQube
+- Coverity
 - Metasploit
 
 # Frameworks & Standards
@@ -34,19 +36,14 @@ This portfolio documents my hands-on labs, projects, writeups and continuous lea
 # Developer tools & technologies
 - JAVA & React techstack
 - Git, Github 
-- Swagger API
+- REST APIs
+- Security tool administration for sonarqube and Coverity
 - Docker, Kubernetes
 - JIRA
 
 # Certifications
 - CEH
 - CompTIA Security+
-
-# Repository Structure
-- vuln_management --> Vulnerability assessment, CTF writeups and remediation labs
-- SOC --> SOC detection & SIEM related projects / writeups
-- grc_risk --> Risk assessments, policies & GRC work
-- automation_scripts --> Automation projects and helper scripts
 
 # Featured Projects
 - Risk Assessment case Study
