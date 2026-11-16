@@ -4,9 +4,7 @@ Welcome to my Cybersecurity portfolio! This repository shows hands-on projects, 
 
 # About me
 
-I am a Master's student in Sociotechnical Cybersecurity at TH Ingolstadt with 3+ years of experience in vulnerability management and application security. I enjoy breaking down complex systems, identifying root causes of security risks, and building scalable solutions that improve security posture.
-
-I am actively building practical skills in vulnerability assessment, DevSecOps, with an interest in detecting threats, reducing attack surfaces, and translating technical findings into business risk.
+Cybersecurity professional with 3+ years of cybersecurity experience across web application security, vulnerability management and strengthening software supply-chain security. I enjoy breaking down complex systems, identifying root causes of security risks, and building scalable solutions that improve security posture. Passionate about turning security findings into actionable improvements through vulnerability analysis, automation and DevSecOps, with a focus on building scalable, secure-by-design solutions
 
 This portfolio documents my hands-on labs, projects, writeups and continuous learning journey in cybersecurity.
 
@@ -42,8 +40,8 @@ This portfolio documents my hands-on labs, projects, writeups and continuous lea
 - JIRA
 
 # Certifications
-- CEH
 - CompTIA Security+
+- CEH
 
 # Featured Projects
 - Risk Assessment case Study
